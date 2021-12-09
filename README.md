@@ -1,4 +1,4 @@
-# autobuy
+------------------------------- autobuy
 local A_1 = "BuyItem"
 local A_2 = "Katana"
 local Event = game:GetService("ReplicatedStorage").Remotes["CommF_"]
