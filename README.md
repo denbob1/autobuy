@@ -59,3 +59,4 @@ local A_1 = "BuyItem"
 local A_2 = "Soul Cane"
 local Event = game:GetService("ReplicatedStorage").Remotes["CommF_"]
 Event:InvokeServer(A_1, A_2)
+
